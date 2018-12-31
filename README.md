@@ -1,6 +1,6 @@
 # Heroku Buildpack for Custom Fonts
 
-Fonts used by [SimplyAgree](https://www.simplyagree.com) for generating custom PDF documents.
+Fonts used by [cvzilla](https://www.cvzilla.com) for generating awesome resumes.
 
 __WARNING: DO NOT POINT YOUR BUILDPACK CONFIG TO THIS PROJECT__
 
