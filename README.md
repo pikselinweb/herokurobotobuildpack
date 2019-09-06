@@ -16,3 +16,7 @@ inside the project directory:
 * https://github.com/debitoor/heroku-buildpack-converter-fonts
 * https://raw.githubusercontent.com/lawgical/heroku-buildpack-custom-fonts
 
+### Installation
+```sh
+$ heroku buildpacks:add --index 2 https://github.com/pikselinweb/herokurobotobuildpack.git -a my-app
+```
